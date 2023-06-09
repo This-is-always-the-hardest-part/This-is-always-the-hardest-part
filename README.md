@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @This-is-always-the-hardest-part
+- 👀 I’m interested in ... bettering myself
+- 🌱 I’m currently learning ... from the very beginning. Starting with JavaScript.
